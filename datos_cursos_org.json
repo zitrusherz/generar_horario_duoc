@@ -1,0 +1,1733 @@
+{
+    "cursos_dict": {
+        "MLY0100-003D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Lu 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MLY0100",
+                "Asignatura": "MACHINE LEARNING",
+                "Docente": "ELIECER RAMON PE\u00d1A"
+            }
+        },
+        "GPI0101-001D": {
+            "Horarios": [
+                "Ju 11:31:00 - 12:50:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPI0101",
+                "Asignatura": "GESTI\u00d3N DE PERSONAS",
+                "Docente": "KRYSTIAN REYMON DELGADO"
+            }
+        },
+        "API0101-002D": {
+            "Horarios": [
+                "Ju 10:01:00 - 11:20:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "API0101",
+                "Asignatura": "AUTOMATIZACI\u00d3N DE PRUEBAS",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "MLY0100-004D": {
+            "Horarios": [
+                "Mi 14:31:00 - 15:50:00",
+                "Ma 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MLY0100",
+                "Asignatura": "MACHINE LEARNING",
+                "Docente": "MARCO ANTONIO JAPKE"
+            }
+        },
+        "MLY0100-002D": {
+            "Horarios": [
+                "Mi 10:01:00 - 11:20:00",
+                "Lu 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MLY0100",
+                "Asignatura": "MACHINE LEARNING",
+                "Docente": "MARCO ANTONIO JAPKE"
+            }
+        },
+        "MLY0100-001D": {
+            "Horarios": [
+                "Mi 13:01:00 - 14:20:00",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MLY0100",
+                "Asignatura": "MACHINE LEARNING",
+                "Docente": "MARCO ANTONIO JAPKE"
+            }
+        },
+        "GPI0101-002D": {
+            "Horarios": [
+                "Mi 14:31:00 - 15:50:00",
+                "Ma 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPI0101",
+                "Asignatura": "GESTI\u00d3N DE PERSONAS",
+                "Docente": "MARIO GARCIA"
+            }
+        },
+        "API0101-003D": {
+            "Horarios": [
+                "Ma 13:01:00 - 14:20:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "API0101",
+                "Asignatura": "AUTOMATIZACI\u00d3N DE PRUEBAS",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "EMP2103-007D": {
+            "Horarios": [
+                "Vi 17:31:00 - 18:10:00",
+                "Vi 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "FRANCISCO SAMUEL OLIVARES"
+            }
+        },
+        "EMP2103-003D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:50:00",
+                "Vi 10:41:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "ANDREA VALENTINA DONOSO"
+            }
+        },
+        "EMP2103-002D": {
+            "Horarios": [
+                "Vi 10:01:00 - 10:40:00",
+                "Vi 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "CRISTOFFER ALEJANDRO PEREZ"
+            }
+        },
+        "GPY6111-007D": {
+            "Horarios": [
+                "Vi 10:01:00 - 10:40:00",
+                "Vi 8:31:00 - 9:50:00",
+                "Lu 10:01:00 - 10:40:00",
+                "Lu 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "BIY6121-004D": {
+            "Horarios": [
+                "Vi 14:31:00 - 15:50:00",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "BIY6121",
+                "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+                "Docente": "ELIECER RAMON PE\u00d1A"
+            }
+        },
+        "ASY6131-016D": {
+            "Horarios": [
+                "Vi 14:31:00 - 15:50:00",
+                "Mi 13:41:00 - 14:20:00",
+                "Mi 13:01:00 - 13:40:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "CARLOS ALBERTO ABARZUA"
+            }
+        },
+        "ASY6131-004D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Mi 10:41:00 - 11:20:00",
+                "Mi 10:01:00 - 10:40:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "CARLOS ALBERTO ABARZUA"
+            }
+        },
+        "EAY4615-002D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4615",
+                "Asignatura": "\u00c9TICA PROFESIONAL",
+                "Docente": "DANIEL ANDRES QUITRAL"
+            }
+        },
+        "EAY4615-001D": {
+            "Horarios": [
+                "Ju 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4615",
+                "Asignatura": "\u00c9TICA PROFESIONAL",
+                "Docente": "LUIS ENRIQUE LARRAGUIBEL"
+            }
+        },
+        "GPY6111-013D": {
+            "Horarios": [
+                "Ju 10:01:00 - 11:20:00",
+                "Ju 9:11:00 - 9:50:00",
+                "Ma 10:41:00 - 11:20:00",
+                "Ma 10:01:00 - 10:40:00",
+                "Ma 9:11:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "MARIO GARCIA"
+            }
+        },
+        "GPY6111-011D": {
+            "Horarios": [
+                "Ju 16:01:00 - 16:40:00",
+                "Ju 14:31:00 - 15:50:00",
+                "Ma 16:01:00 - 16:40:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "MARIO GARCIA"
+            }
+        },
+        "GPY6111-009D": {
+            "Horarios": [
+                "Ju 16:01:00 - 16:40:00",
+                "Ju 14:31:00 - 15:50:00",
+                "Mi 16:01:00 - 16:40:00",
+                "Mi 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "ITALO ANDRES BONET"
+            }
+        },
+        "GPY6111-005D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Ju 12:11:00 - 12:50:00",
+                "Ma 13:41:00 - 14:20:00",
+                "Ma 13:01:00 - 13:40:00",
+                "Ma 12:11:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "MARIO GARCIA"
+            }
+        },
+        "GPY6111-003D": {
+            "Horarios": [
+                "Ju 13:01:00 - 13:40:00",
+                "Ju 11:31:00 - 12:50:00",
+                "Ma 12:11:00 - 12:50:00",
+                "Ma 11:31:00 - 12:10:00",
+                "Ma 10:41:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "ITALO ANDRES BONET"
+            }
+        },
+        "BIY6121-003D": {
+            "Horarios": [
+                "Ju 8:31:00 - 9:50:00",
+                "Ma 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "BIY6121",
+                "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+                "Docente": "FELIPE EDUARDO ZAMBRANO"
+            }
+        },
+        "BIY6121-001D": {
+            "Horarios": [
+                "Ju 10:01:00 - 11:20:00",
+                "Mi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "BIY6121",
+                "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+                "Docente": "ITALO ANDRES BONET"
+            }
+        },
+        "ASY6131-014D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 15:11:00 - 15:50:00",
+                "Mi 14:31:00 - 15:10:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "CARLOS ALBERTO ABARZUA"
+            }
+        },
+        "ASY6131-012D": {
+            "Horarios": [
+                "Ju 11:31:00 - 12:50:00",
+                "Lu 12:11:00 - 12:50:00",
+                "Lu 11:31:00 - 12:10:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "JUAN CARLOS ARAVENA"
+            }
+        },
+        "ASY6131-006D": {
+            "Horarios": [
+                "Ju 10:01:00 - 11:20:00",
+                "Ma 9:11:00 - 9:50:00",
+                "Ma 8:31:00 - 9:10:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "JUAN CARLOS ARAVENA"
+            }
+        },
+        "EAY4615-005D": {
+            "Horarios": [
+                "Mi 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4615",
+                "Asignatura": "\u00c9TICA PROFESIONAL",
+                "Docente": "JOSE DANIEL BARRANCO"
+            }
+        },
+        "EMP2103-006D": {
+            "Horarios": [
+                "Mi 11:31:00 - 12:50:00",
+                "Mi 10:41:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "CRISTOFFER ALEJANDRO PEREZ"
+            }
+        },
+        "EMP2103-005D": {
+            "Horarios": [
+                "Mi 16:01:00 - 16:40:00",
+                "Mi 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "FRANCISCO SAMUEL OLIVARES"
+            }
+        },
+        "GPY6111-015D": {
+            "Horarios": [
+                "Mi 17:31:00 - 18:50:00",
+                "Mi 16:41:00 - 17:20:00",
+                "Lu 16:41:00 - 17:20:00",
+                "Lu 16:01:00 - 16:40:00",
+                "Lu 15:11:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "GPY6111",
+                "Asignatura": "GESTI\u00d3N DE PROYECTOS INFORM\u00c1TICOS",
+                "Docente": "ITALO ANDRES BONET"
+            }
+        },
+        "BIY6121-005D": {
+            "Horarios": [
+                "Mi 11:31:00 - 12:50:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "BIY6121",
+                "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+                "Docente": "ELIECER RAMON PE\u00d1A"
+            }
+        },
+        "ASY6131-018D": {
+            "Horarios": [
+                "Mi 13:01:00 - 14:20:00",
+                "Lu 13:41:00 - 14:20:00",
+                "Lu 13:01:00 - 13:40:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "JUAN CARLOS ARAVENA"
+            }
+        },
+        "ASY6131-010D": {
+            "Horarios": [
+                "Mi 13:01:00 - 14:20:00",
+                "Lu 13:41:00 - 14:20:00",
+                "Lu 13:01:00 - 13:40:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "FELIPE EDUARDO ZAMBRANO"
+            }
+        },
+        "ASY6131-008D": {
+            "Horarios": [
+                "Mi 8:31:00 - 9:50:00",
+                "Ma 10:41:00 - 11:20:00",
+                "Ma 10:01:00 - 10:40:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY6131",
+                "Asignatura": "SEGURIDAD EN SISTEMAS COMPUTACIONALES",
+                "Docente": "JUAN CARLOS ARAVENA"
+            }
+        },
+        "EMP2103-004D": {
+            "Horarios": [
+                "Ma 11:31:00 - 12:50:00",
+                "Ma 10:41:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "NADIA DELROCIO VILLOTA"
+            }
+        },
+        "EMP2103-001D": {
+            "Horarios": [
+                "Ma 10:01:00 - 10:40:00",
+                "Ma 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "NADIA DELROCIO VILLOTA"
+            }
+        },
+        "BIY6121-006D": {
+            "Horarios": [
+                "Ma 13:01:00 - 14:20:00",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "BIY6121",
+                "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+                "Docente": "ITALO ANDRES BONET"
+            }
+        },
+        "BIY6121-002D": {
+            "Horarios": [
+                "Ma 10:01:00 - 11:20:00",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "BIY6121",
+                "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+                "Docente": "ELIECER RAMON PE\u00d1A"
+            }
+        },
+        "EAY4615-004D": {
+            "Horarios": [
+                "Lu 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4615",
+                "Asignatura": "\u00c9TICA PROFESIONAL",
+                "Docente": "DANIEL ANDRES QUITRAL"
+            }
+        },
+        "EAY4615-003D": {
+            "Horarios": [
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4615",
+                "Asignatura": "\u00c9TICA PROFESIONAL",
+                "Docente": "JOSE DANIEL BARRANCO"
+            }
+        },
+        "EMP2103-008D": {
+            "Horarios": [
+                "Lu 16:01:00 - 16:40:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EMP2103",
+                "Asignatura": "HERRAMIENTAS PARA EL EMPRENDIMIENTO",
+                "Docente": "MARCOS FELIPE CALDERON"
+            }
+        },
+        "EAY4450-005D": {
+            "Horarios": [
+                "Mi 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4450",
+                "Asignatura": "\u00c9TICA PARA EL TRABAJO",
+                "Docente": "CAROLA SILVIA ALVAREZ"
+            }
+        },
+        "EAY4450-006D": {
+            "Horarios": [
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4450",
+                "Asignatura": "\u00c9TICA PARA EL TRABAJO",
+                "Docente": "CONSUELO DE LA TORRE"
+            }
+        },
+        "EAY4450-004D": {
+            "Horarios": [
+                "Ma 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4450",
+                "Asignatura": "\u00c9TICA PARA EL TRABAJO",
+                "Docente": "DANIEL ANDRES QUITRAL"
+            }
+        },
+        "EAY4450-002D": {
+            "Horarios": [
+                "Ma 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4450",
+                "Asignatura": "\u00c9TICA PARA EL TRABAJO",
+                "Docente": "CAROLA SILVIA ALVAREZ"
+            }
+        },
+        "EAY4450-007D": {
+            "Horarios": [
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4450",
+                "Asignatura": "\u00c9TICA PARA EL TRABAJO",
+                "Docente": "MAURICIO FERNANDO MORA"
+            }
+        },
+        "EAY4450-003D": {
+            "Horarios": [
+                "Lu 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "EAY4450",
+                "Asignatura": "\u00c9TICA PARA EL TRABAJO",
+                "Docente": "MAURICIO FERNANDO MORA"
+            }
+        },
+        "APY4461-018D": {
+            "Horarios": [
+                "Online",
+                "Vi 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-016D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "APY4461-015D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-014D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-010D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "APY4461-008D": {
+            "Horarios": [
+                "Online",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-006D": {
+            "Horarios": [
+                "Online",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-004D": {
+            "Horarios": [
+                "Online",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "JUAN ANDRES PULGAR"
+            }
+        },
+        "APY4461-002D": {
+            "Horarios": [
+                "Online",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "JUAN ANDRES PULGAR"
+            }
+        },
+        "MAT4140-006D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Mi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "MELISSA YASMINE CODJAMBASSIS"
+            }
+        },
+        "MAT4140-005D": {
+            "Horarios": [
+                "Vi 8:31:00 - 9:50:00",
+                "Mi 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "CHRISTIAN ALEXANDER CALDERON"
+            }
+        },
+        "PGY4121-008D": {
+            "Horarios": [
+                "Vi 16:01:00 - 17:20:00",
+                "Vi 15:11:00 - 15:50:00",
+                "Ma 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "PGY4121-007D": {
+            "Horarios": [
+                "Vi 16:01:00 - 17:20:00",
+                "Vi 15:11:00 - 15:50:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "KRYSTIAN REYMON DELGADO"
+            }
+        },
+        "PGY4121-005D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:50:00",
+                "Lu 14:31:00 - 15:10:00",
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "JOSE IGNACIO RIQUELME"
+            }
+        },
+        "PGY4121-004D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:10:00",
+                "Vi 10:01:00 - 11:20:00",
+                "Ju 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "KRYSTIAN REYMON DELGADO"
+            }
+        },
+        "PGY4121-003D": {
+            "Horarios": [
+                "Vi 13:01:00 - 13:40:00",
+                "Vi 11:31:00 - 12:50:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "PGY4121-002D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Vi 9:11:00 - 9:50:00",
+                "Mi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "JOSE IGNACIO RIQUELME"
+            }
+        },
+        "CSY4111-005D": {
+            "Horarios": [
+                "Vi 16:01:00 - 17:20:00",
+                "Ju 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "ROCIO CONTRERAS"
+            }
+        },
+        "CSY4111-002D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Lu 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "CINDY BETZAB\u00c9 CONTADOR"
+            }
+        },
+        "ASY4131-004D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Mi 14:31:00 - 15:10:00",
+                "Mi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "JUAN ANDRES PULGAR"
+            }
+        },
+        "ASY4131-001D": {
+            "Horarios": [
+                "Vi 13:01:00 - 13:40:00",
+                "Vi 11:31:00 - 12:50:00",
+                "Ju 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "CINDY BETZAB\u00c9 CONTADOR"
+            }
+        },
+        "MAT4140-007D": {
+            "Horarios": [
+                "Ju 14:31:00 - 15:50:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "YELNITH ANDREA VEGA"
+            }
+        },
+        "MAT4140-004D": {
+            "Horarios": [
+                "Ju 11:31:00 - 12:50:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "MARIA ISABEL MU\u00d1OZ"
+            }
+        },
+        "PGY4121-006D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 14:31:00 - 15:50:00",
+                "Mi 13:41:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "JOSE IGNACIO RIQUELME"
+            }
+        },
+        "CSY4111-006D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Lu 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "CSY4111-004D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 16:01:00 - 16:40:00",
+                "Mi 15:11:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "CSY4111-003D": {
+            "Horarios": [
+                "Ju 10:01:00 - 11:20:00",
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "CINDY BETZAB\u00c9 CONTADOR"
+            }
+        },
+        "ASY4131-008D": {
+            "Horarios": [
+                "Ju 16:01:00 - 17:20:00",
+                "Ju 15:11:00 - 15:50:00",
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "ASY4131-007D": {
+            "Horarios": [
+                "Ju 16:01:00 - 17:20:00",
+                "Ju 15:11:00 - 15:50:00",
+                "Mi 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "ASY4131-006D": {
+            "Horarios": [
+                "Ju 14:31:00 - 15:10:00",
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "ASY4131-005D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Ma 14:31:00 - 15:50:00",
+                "Ma 13:41:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "ASY4131-002D": {
+            "Horarios": [
+                "Ju 8:31:00 - 9:50:00",
+                "Mi 13:01:00 - 13:40:00",
+                "Mi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "MAT4140-009D": {
+            "Horarios": [
+                "Mi 14:31:00 - 15:50:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "CRISTINA ALEJANDRA ARAYA"
+            }
+        },
+        "MAT4140-008D": {
+            "Horarios": [
+                "Mi 17:31:00 - 18:50:00",
+                "Lu 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "RONNY GODOY"
+            }
+        },
+        "CSY4111-001D": {
+            "Horarios": [
+                "Mi 8:31:00 - 9:50:00",
+                "Lu 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "ASY4131-003D": {
+            "Horarios": [
+                "Mi 10:01:00 - 11:20:00",
+                "Ma 10:01:00 - 11:20:00",
+                "Ma 9:11:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "CSY4111-007D": {
+            "Horarios": [
+                "Ma 14:31:00 - 15:50:00",
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "ROCIO CONTRERAS"
+            }
+        },
+        "FCE1100-020D": {
+            "Horarios": [
+                "Vi 14:31:00 - 15:50:00",
+                "Vi 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "MAURICIO FERNANDO MORA"
+            }
+        },
+        "FCE1100-019D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Vi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "LUIS ENRIQUE LARRAGUIBEL"
+            }
+        },
+        "FCE1100-017D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Vi 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "LUIS ENRIQUE LARRAGUIBEL"
+            }
+        },
+        "FCE1100-016D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:50:00",
+                "Vi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "JOSE DANIEL BARRANCO"
+            }
+        },
+        "FCE1100-022D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Ju 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "JOSE DANIEL BARRANCO"
+            }
+        },
+        "FCE1100-021D": {
+            "Horarios": [
+                "Ju 16:01:00 - 17:20:00",
+                "Ju 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "DANIEL ANDRES QUITRAL"
+            }
+        },
+        "FCE1100-023D": {
+            "Horarios": [
+                "Mi 13:01:00 - 14:20:00",
+                "Mi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "MAURICIO FERNANDO MORA"
+            }
+        },
+        "FCE1100-018D": {
+            "Horarios": [
+                "Ma 14:31:00 - 15:50:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "CAROLA SILVIA ALVAREZ"
+            }
+        },
+        "PLC2101-022D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PLC2101",
+                "Asignatura": "HABILIDADES DE COMUNICACI\u00d3N EFECTIVA",
+                "Docente": "LEIDY ANGELICA MACHUCA"
+            }
+        },
+        "MDY2131-002D": {
+            "Horarios": [
+                "Vi 17:31:00 - 18:10:00",
+                "Vi 16:01:00 - 17:20:00",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "ORLANDO SEGUNDO SEPULVEDA"
+            }
+        },
+        "INU2101-015D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "INU2101",
+                "Asignatura": "INGL\u00c9S B\u00c1SICO II",
+                "Docente": "MARCO CORTES"
+            }
+        },
+        "INU2101-014D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "INU2101",
+                "Asignatura": "INGL\u00c9S B\u00c1SICO II",
+                "Docente": "ALEJANDRA ANDREA ROBLEDO"
+            }
+        },
+        "MDY2131-004D": {
+            "Horarios": [
+                "Ju 10:01:00 - 10:40:00",
+                "Ju 8:31:00 - 9:50:00",
+                "Ma 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "CARLA ANDREA ELOZ"
+            }
+        },
+        "MDY2131-003D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:10:00",
+                "Ju 16:01:00 - 17:20:00",
+                "Ma 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "CARLOS ALBERTO ABARZUA"
+            }
+        },
+        "MDY2131-001D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Lu 17:31:00 - 18:10:00",
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "ORLANDO SEGUNDO SEPULVEDA"
+            }
+        }
+    },
+    "cursos_dict_obligatorio": {
+        "APY4461-018D": {
+            "Horarios": [
+                "Online",
+                "Vi 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-016D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "APY4461-015D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-014D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-010D": {
+            "Horarios": [
+                "Online",
+                "Vi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "APY4461-008D": {
+            "Horarios": [
+                "Online",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-006D": {
+            "Horarios": [
+                "Online",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "DIEGO PATRICIO CARES"
+            }
+        },
+        "APY4461-004D": {
+            "Horarios": [
+                "Online",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "JUAN ANDRES PULGAR"
+            }
+        },
+        "APY4461-002D": {
+            "Horarios": [
+                "Online",
+                "Lu 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "APY4461",
+                "Asignatura": "PROCESO DE PORTAFOLIO 4",
+                "Docente": "JUAN ANDRES PULGAR"
+            }
+        },
+        "MAT4140-006D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Mi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "MELISSA YASMINE CODJAMBASSIS"
+            }
+        },
+        "MAT4140-005D": {
+            "Horarios": [
+                "Vi 8:31:00 - 9:50:00",
+                "Mi 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "CHRISTIAN ALEXANDER CALDERON"
+            }
+        },
+        "PGY4121-008D": {
+            "Horarios": [
+                "Vi 16:01:00 - 17:20:00",
+                "Vi 15:11:00 - 15:50:00",
+                "Ma 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "PGY4121-007D": {
+            "Horarios": [
+                "Vi 16:01:00 - 17:20:00",
+                "Vi 15:11:00 - 15:50:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "KRYSTIAN REYMON DELGADO"
+            }
+        },
+        "PGY4121-005D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:50:00",
+                "Lu 14:31:00 - 15:10:00",
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "JOSE IGNACIO RIQUELME"
+            }
+        },
+        "PGY4121-004D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:10:00",
+                "Vi 10:01:00 - 11:20:00",
+                "Ju 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "KRYSTIAN REYMON DELGADO"
+            }
+        },
+        "PGY4121-003D": {
+            "Horarios": [
+                "Vi 13:01:00 - 13:40:00",
+                "Vi 11:31:00 - 12:50:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "PGY4121-002D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Vi 9:11:00 - 9:50:00",
+                "Mi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "JOSE IGNACIO RIQUELME"
+            }
+        },
+        "CSY4111-005D": {
+            "Horarios": [
+                "Vi 16:01:00 - 17:20:00",
+                "Ju 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "ROCIO CONTRERAS"
+            }
+        },
+        "CSY4111-002D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Lu 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "CINDY BETZAB\u00c9 CONTADOR"
+            }
+        },
+        "ASY4131-004D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Mi 14:31:00 - 15:10:00",
+                "Mi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "JUAN ANDRES PULGAR"
+            }
+        },
+        "ASY4131-001D": {
+            "Horarios": [
+                "Vi 13:01:00 - 13:40:00",
+                "Vi 11:31:00 - 12:50:00",
+                "Ju 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "CINDY BETZAB\u00c9 CONTADOR"
+            }
+        },
+        "MAT4140-007D": {
+            "Horarios": [
+                "Ju 14:31:00 - 15:50:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "YELNITH ANDREA VEGA"
+            }
+        },
+        "MAT4140-004D": {
+            "Horarios": [
+                "Ju 11:31:00 - 12:50:00",
+                "Ma 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "MARIA ISABEL MU\u00d1OZ"
+            }
+        },
+        "PGY4121-006D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 14:31:00 - 15:50:00",
+                "Mi 13:41:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PGY4121",
+                "Asignatura": "PROGRAMACI\u00d3N DE APLICACIONES M\u00d3VILES",
+                "Docente": "JOSE IGNACIO RIQUELME"
+            }
+        },
+        "CSY4111-006D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Lu 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "RONALD  GUSTAVO VILLALOBOS"
+            }
+        },
+        "CSY4111-004D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 16:01:00 - 16:40:00",
+                "Mi 15:11:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "CSY4111-003D": {
+            "Horarios": [
+                "Ju 10:01:00 - 11:20:00",
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "CINDY BETZAB\u00c9 CONTADOR"
+            }
+        },
+        "ASY4131-008D": {
+            "Horarios": [
+                "Ju 16:01:00 - 17:20:00",
+                "Ju 15:11:00 - 15:50:00",
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "ASY4131-007D": {
+            "Horarios": [
+                "Ju 16:01:00 - 17:20:00",
+                "Ju 15:11:00 - 15:50:00",
+                "Mi 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "ASY4131-006D": {
+            "Horarios": [
+                "Ju 14:31:00 - 15:10:00",
+                "Ju 13:01:00 - 14:20:00",
+                "Mi 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "ASY4131-005D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Ma 14:31:00 - 15:50:00",
+                "Ma 13:41:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "GUILLERMO EUGENIO PINTO"
+            }
+        },
+        "ASY4131-002D": {
+            "Horarios": [
+                "Ju 8:31:00 - 9:50:00",
+                "Mi 13:01:00 - 13:40:00",
+                "Mi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "MAT4140-009D": {
+            "Horarios": [
+                "Mi 14:31:00 - 15:50:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "CRISTINA ALEJANDRA ARAYA"
+            }
+        },
+        "MAT4140-008D": {
+            "Horarios": [
+                "Mi 17:31:00 - 18:50:00",
+                "Lu 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MAT4140",
+                "Asignatura": "ESTAD\u00cdSTICA DESCRIPTIVA",
+                "Docente": "RONNY GODOY"
+            }
+        },
+        "CSY4111-001D": {
+            "Horarios": [
+                "Mi 8:31:00 - 9:50:00",
+                "Lu 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "ASY4131-003D": {
+            "Horarios": [
+                "Mi 10:01:00 - 11:20:00",
+                "Ma 10:01:00 - 11:20:00",
+                "Ma 9:11:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "ASY4131",
+                "Asignatura": "ARQUITECTURA",
+                "Docente": "VICENTE EDUARDO ARANDA"
+            }
+        },
+        "CSY4111-007D": {
+            "Horarios": [
+                "Ma 14:31:00 - 15:50:00",
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "CSY4111",
+                "Asignatura": "CALIDAD DE SOFTWARE",
+                "Docente": "ROCIO CONTRERAS"
+            }
+        },
+        "FCE1100-020D": {
+            "Horarios": [
+                "Vi 14:31:00 - 15:50:00",
+                "Vi 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "MAURICIO FERNANDO MORA"
+            }
+        },
+        "FCE1100-019D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Vi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "LUIS ENRIQUE LARRAGUIBEL"
+            }
+        },
+        "FCE1100-017D": {
+            "Horarios": [
+                "Vi 10:01:00 - 11:20:00",
+                "Vi 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "LUIS ENRIQUE LARRAGUIBEL"
+            }
+        },
+        "FCE1100-016D": {
+            "Horarios": [
+                "Vi 11:31:00 - 12:50:00",
+                "Vi 11:31:00 - 12:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "JOSE DANIEL BARRANCO"
+            }
+        },
+        "FCE1100-022D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Ju 17:31:00 - 18:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "JOSE DANIEL BARRANCO"
+            }
+        },
+        "FCE1100-021D": {
+            "Horarios": [
+                "Ju 16:01:00 - 17:20:00",
+                "Ju 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "DANIEL ANDRES QUITRAL"
+            }
+        },
+        "FCE1100-023D": {
+            "Horarios": [
+                "Mi 13:01:00 - 14:20:00",
+                "Mi 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "MAURICIO FERNANDO MORA"
+            }
+        },
+        "FCE1100-018D": {
+            "Horarios": [
+                "Ma 14:31:00 - 15:50:00",
+                "Ma 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "FCE1100",
+                "Asignatura": "FUNDAMENTOS DE ANTROPOLOG\u00cdA",
+                "Docente": "CAROLA SILVIA ALVAREZ"
+            }
+        },
+        "PLC2101-022D": {
+            "Horarios": [
+                "Vi 13:01:00 - 14:20:00",
+                "Lu 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "PLC2101",
+                "Asignatura": "HABILIDADES DE COMUNICACI\u00d3N EFECTIVA",
+                "Docente": "LEIDY ANGELICA MACHUCA"
+            }
+        },
+        "MDY2131-002D": {
+            "Horarios": [
+                "Vi 17:31:00 - 18:10:00",
+                "Vi 16:01:00 - 17:20:00",
+                "Ma 13:01:00 - 14:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "ORLANDO SEGUNDO SEPULVEDA"
+            }
+        },
+        "INU2101-015D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "INU2101",
+                "Asignatura": "INGL\u00c9S B\u00c1SICO II",
+                "Docente": "MARCO CORTES"
+            }
+        },
+        "INU2101-014D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:50:00",
+                "Lu 14:31:00 - 15:50:00"
+            ],
+            "Datos": {
+                "Sigla": "INU2101",
+                "Asignatura": "INGL\u00c9S B\u00c1SICO II",
+                "Docente": "ALEJANDRA ANDREA ROBLEDO"
+            }
+        },
+        "MDY2131-004D": {
+            "Horarios": [
+                "Ju 10:01:00 - 10:40:00",
+                "Ju 8:31:00 - 9:50:00",
+                "Ma 8:31:00 - 9:50:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "CARLA ANDREA ELOZ"
+            }
+        },
+        "MDY2131-003D": {
+            "Horarios": [
+                "Ju 17:31:00 - 18:10:00",
+                "Ju 16:01:00 - 17:20:00",
+                "Ma 10:01:00 - 11:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "CARLOS ALBERTO ABARZUA"
+            }
+        },
+        "MDY2131-001D": {
+            "Horarios": [
+                "Ju 13:01:00 - 14:20:00",
+                "Lu 17:31:00 - 18:10:00",
+                "Lu 16:01:00 - 17:20:00"
+            ],
+            "Datos": {
+                "Sigla": "MDY2131",
+                "Asignatura": "CONSULTAS DE BASES DE DATOS",
+                "Docente": "ORLANDO SEGUNDO SEPULVEDA"
+            }
+        }
+    }
+}
