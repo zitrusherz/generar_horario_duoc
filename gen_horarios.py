@@ -120,26 +120,59 @@ def quick_sort(arr):
         return quick_sort(left) + middle + quick_sort(right)
 
 def gen_horario_optimo(seccion,solapamientos,ventanas_de_tiempo):
-    print('llaves ventana',tuple(ventanas_de_tiempo.keys()))
-    tupla_llaves_ventana = tuple(ventanas_de_tiempo.keys())
+
+    ventanas_ordenadas = ordenar_ventana(ventanas_de_tiempo)
+    horario = [seccion]
+    horarios = []
+    set_solapamientos = set(solapamientos)
+    print(set_solapamientos)
+
+    for elemnt in ventanas_ordenadas:
+
+        print(elemnt)
+        print(elemnt[0][1])
+        print(cursos_datos_obl[elemnt[0][1]])
+        if elemnt[0][1] not in horario:
+            for i in range(len(horario)):
+                #print(horario[i].startswith(cursos_datos_obl[elemnt[0][1]]['Datos']['Sigla']))
+                #print(horario[i])
+                #print(cursos_datos_obl[elemnt[0][1]]['Datos']['Sigla'])
+                guion_indice = horario[i].index('-')
+                #print(horario[i][:guion_indice])
+                curso_repetido = horario[i][:guion_indice] == cursos_datos_obl[elemnt[0][1]]['Datos']['Sigla']
+                #print(curso_repetido)
+                if curso_repetido:
+                    break
+
+                elif not curso_repetido and i == len(horario)-1:
+                    if not elemnt[0][1] in set_solapamientos:
+                        horario.append(elemnt[0][1])
+                        print('horario', horario)
+
+                        set_solapamientos = set_solapamientos | set(generar_lista_cursos_solapados(elemnt[0][1]))
+    horarios.append(horario)
+
+    print('lista_solapamientos', set_solapamientos)
+    print('horario', horario)
+    print('horarios', horarios)
 
 
-
+def ordenar_ventana(ventanas_de_tiempo):
+    ventanas_de_tiempo_list = list(ventanas_de_tiempo.items())
+    ventanas_ordenadas = quick_sort(ventanas_de_tiempo_list)
+    return ventanas_ordenadas
 for curso in cursos_datos_obl.items():
     #print(f"Curso: {curso}, tipo: {type(curso)}")
     print(f'seccion: {curso[0]}')
     solapamientos = generar_lista_cursos_solapados(curso[0])
     ventanas_de_tiempo = gen_lista_vent_tiempo(curso[0], solapamientos)
-    print('Ventanas de tiempo ',ventanas_de_tiempo)
+    #print('Ventanas de tiempo ',ventanas_de_tiempo)
     gen_horario_optimo(curso[0], solapamientos, ventanas_de_tiempo)
     count+=1
-    if count == 10:
+    if count == 1:
         break
-ventanas_de_tiempo = {('MAT4140-006D', 'APY4461-018D'): ([101], 'Vi'), ('MAT4140-006D', 'APY4461-016D'): ([191], 'Vi'), ('MAT4140-006D', 'APY4461-015D'): ([191], 'Vi'), ('MAT4140-006D', 'APY4461-014D'): ([191], 'Vi'), ('MAT4140-006D', 'APY4461-010D'): ([191], 'Vi'), ('MAT4140-006D', 'PGY4121-008D'): ([101, 51], 'Vi'), ('MAT4140-006D', 'PGY4121-007D'): ([101, 51], 'Vi'), ('MAT4140-006D', 'PGY4121-005D'): ([11], 'Vi'), ('MAT4140-006D', 'PGY4121-004D'): ([51, 101], 'Vi'), ('MAT4140-006D', 'PGY4121-002D'): ([101, 191, 11], 'Mi'), ('MAT4140-006D', 'CSY4111-005D'): ([101], 'Vi'), ('MAT4140-006D', 'CSY4111-002D'): ([101], 'Vi'), ('MAT4140-006D', 'CSY4111-004D'): ([101, 51], 'Mi'), ('MAT4140-006D', 'ASY4131-007D'): ([11], 'Mi'), ('MAT4140-006D', 'ASY4131-006D'): ([191], 'Mi'), ('MAT4140-006D', 'CSY4111-001D'): ([191], 'Mi'), ('MAT4140-006D', 'ASY4131-003D'): ([101], 'Mi'), ('MAT4140-006D', 'FCE1100-020D'): ([11, 11], 'Vi'), ('MAT4140-006D', 'FCE1100-017D'): ([101, 101], 'Vi'), ('MAT4140-006D', 'FCE1100-016D'): ([11, 11], 'Vi'), ('MAT4140-006D', 'MDY2131-002D'): ([191, 101], 'Vi')}
-ventanas_de_tiempo_list = list(ventanas_de_tiempo.items())
 
-ventanas_ordenadas = quick_sort(ventanas_de_tiempo_list)
 
-print('ventanas ordenadas',ventanas_ordenadas)
+
 output_folder = 'horarios generados'
 os.makedirs(output_folder, exist_ok=True)
